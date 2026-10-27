@@ -1,0 +1,11 @@
+﻿Control ID,Evidence Item,"Source ",Provider,Frequency
+C-01,List of users with MFA status. Screenshot of MFA Policy in Okta,Okta,IT Admin,Quarterly
+C-02,Signed quarterly access review records.,Google Workspace,IT Admin,Quarterly
+C-03,Github pull records for a sample of changes.,Github,Head of Engineering,Quarterly
+C-04,HR termination list compared with Okta deactivation timestamps for a sample of leavers,Okta & HR,"IT Admin ",Monthly
+C-05,List of admin accounts showing they are separate from daily accounts. admin activity logs.,Okta & AWS,IT Admin,Quarterly
+C-06,"Incident tickets for a sample period, including timestamps and post-incident reviews.","Incident Response ",CISO,Quarterly
+C-07,Training completion report for all employees. new-hire start dates compared with completion dates,HR workflow,HR,Annually (new hires monthly)
+C-08,AWS encryption settings for databases and storage. TLS configuration scan results,AWS Cloud,Head of Engineering,Quarterly
+C-09,Chatbot access configurations. Test results for prompt-injection testing.,AI Support chat,Head of Engineering,Each Release
+C-10,Github organization settings showing push protection for every repository. log of blocked pushes. tickets showing rotation of any exposed secret keys.,Github,Head of Engineering,Quarterly

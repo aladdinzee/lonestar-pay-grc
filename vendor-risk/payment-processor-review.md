@@ -61,3 +61,4 @@ Questionnaire responses (Part A highlights)
 - Close CUEC 3 by reviewing all API key permissions and removing excess access.
 - Close CUEC 4 by completing REM-01 (secret scanning) and REM-06(incident ticketing), and adding a step to the Incident Response Policy for notifying PayCore of key compromise wihin 24 hours.
 - Reassess PayCore annually, and after any breach.
+

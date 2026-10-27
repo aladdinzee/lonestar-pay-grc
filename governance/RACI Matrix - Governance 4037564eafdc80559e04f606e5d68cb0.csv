@@ -1,0 +1,7 @@
+﻿Task,CEO,CISO,Head of Engineering,HR,Legal,IT,GRC Analyst
+Approve Security Policies,A,R,C,I,C,I,R
+Run Quarterly Access Review,I,A,C,-,-,R,C
+Approve Production Changes,-,C,A,-,-,-,I
+Handle Security Incidents,I,A,R,C,C,R,R
+Notify Customers of Breach,C,R,C,-,A,-,I
+Employee Security Training,I,A,-,R,-,-,C

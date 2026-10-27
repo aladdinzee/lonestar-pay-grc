@@ -1,0 +1,9 @@
+﻿Vendor,Service,Data Shared,Highest Classification,Business Impact if down,Tier,Internal Owner,Assurance on File
+Payment Processor,Processes Card payment and settles fund.,Card data and merchant bank details.,Restricted,High,1,CISO,SOC 2 Type II & PCI AOC (Requested)
+AWS,Cloud Hosting,"All production data, including merchant database.",Restricted,High,1,Head of Engineering,SOC 2 Type II (public report)
+Okta,Single sign-on and MFA access.,"Employee identities, login and authentication records.",Confidential,HIgh,1,IT Admin,SOC 2 Type II (public report)
+Github,Hosts source code and record change approval.,Production source codes and deployment records. Any exposed keys.,Confidential,Medium,2,Head of Engineering,SOC 2 Type II (public report)
+Google Workspace,"Email, documents, policies, HR records.","Policies, HR records, access review evidence, any customer data shared by email",Confidential,"Medium ",2,IT Admin,SOC 2 Type II (public report)
+Slack,Internal Chat,"Internal discussion, and any customer data pasted by mistake",Confidential,Low,2,IT admin,SOC 2 Type II (public report)
+AI Model,Supplies the AI model that powers the chatbot.,Merchant questions and any account details that the chatbot provides to the model.,Confidential,Medium,2,Head of Engineering,SOC 2 Type II (Requested)
+Training Platform,Delivers security training and records completion.,"Employee names, emails and completion records.",Internal,Low,3,HR,SOC 2 Type II (Requested)

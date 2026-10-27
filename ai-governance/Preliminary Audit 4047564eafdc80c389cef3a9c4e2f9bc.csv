@@ -1,0 +1,11 @@
+﻿Control,Status,Reasoning
+C-01 MFA,Partial,3 contractor accounts are exempt.
+C-02 Quarterly Access Review,Gap,Never performed. There is no evidence to evaluate.
+C-03 Github Pull Records,Ready,Pending sample testing.
+C-04 HR Termination List with Okta deactivation,Partial,HR termination not linked with Okta & Access is not removed within 24 hours of termination.
+C-05 List of admin accounts,Gap,"Admins use daily accounts, with no separate admin accounts, so the control isn’t operating."
+"C-06 Incident Tickets ",Partial,No Ticketing tool and no post-incident reviews with only informal reporting in Slack.
+C-07 Training completion report,Gap,No security training including for current and new-hires.
+C-08 AWS Encryption settings,Partial,Encryption at rest with exception for two S3 Buckets. No encryption for data in transit.
+C-09 Chatbot access config. Test Results for prompt injection.,Gap,No output filtering and No prompt injection testing in place.
+"C-10 Github organization settings. ",Gap,"secret scanning is turned off, so no evidence can exist and no tickets showing rotation of any exposed secret keys."

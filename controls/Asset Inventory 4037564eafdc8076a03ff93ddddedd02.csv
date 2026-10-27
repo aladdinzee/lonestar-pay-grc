@@ -1,0 +1,10 @@
+﻿Asset,Type,Owner,Data Classification,Criticality
+AWS Production Environment,Cloud Infrastructure,Head of Engineering,Restricted,5
+Okta,Identity System,IT,Confidential,5
+Github,Code Repo,Head of Engineering,Confidential,4
+AI Fraud Model,AI System,Head of Engineering,Restricted,4
+AI Support Chat,AI System,Head of Engineering,Confidential,4
+Google Workspace,Productivity,IT,Confidential,2
+Slack,Communication,IT,Confidential,2
+Merchant Database,Data Storage,Head of Engineering,Restricted,5
+Payment Processor,Vendor,CISO,Restricted,5
